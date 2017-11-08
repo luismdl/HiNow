@@ -12,7 +12,7 @@ public class App
 	public static String dameLaHora() {
 		Calendar calendario = new GregorianCalendar();
         int  hora, minutos, segundos;
-        
+        //prueba
         String ahora;
         
         hora     = calendario.get(Calendar.HOUR_OF_DAY);
